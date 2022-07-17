@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/052.wav-86ddee12a7a3ae1285b72405591fd3a8.sample"
+
+[deps]
+
+source_file="res://Sound_Effects/052.wav"
+dest_files=[ "res://.import/052.wav-86ddee12a7a3ae1285b72405591fd3a8.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
